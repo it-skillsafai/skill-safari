@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70.31" height="69.944" viewBox="0 0 70.31 69.944">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.13" y1="0.12" x2="0.796" y2="0.782" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#387eb8"/>
+      <stop offset="1" stop-color="#366994"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.191" y1="0.206" x2="0.907" y2="0.884" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffe052"/>
+      <stop offset="1" stop-color="#ffc331"/>
+    </linearGradient>
+  </defs>
+  <g id="python-5" transform="translate(-0.145 -0.072)">
+    <path id="Path_113968" data-name="Path 113968" d="M35.046.072c-17.849,0-16.734,7.74-16.734,7.74l.02,8.019H35.365v2.408h-23.8S.145,16.944.145,34.953s9.969,17.371,9.969,17.371h5.949V43.967S15.743,34,25.873,34H42.767s9.491.153,9.491-9.173V9.4S53.7.072,35.046.072ZM25.654,5.465a3.061,3.061,0,1,1-2.168.9A3.061,3.061,0,0,1,25.654,5.465Z" fill="url(#linear-gradient)"/>
+    <path id="Path_113969" data-name="Path 113969" d="M83.382,116.576c17.849,0,16.734-7.74,16.734-7.74l-.02-8.019H83.064V98.409h23.8s11.422,1.3,11.422-16.715-9.969-17.371-9.969-17.371h-5.949v8.357s.321,9.969-9.81,9.969H75.661S66.17,82.5,66.17,91.823v15.421s-1.441,9.332,17.212,9.332Zm9.392-5.392a3.062,3.062,0,1,1,2.168-.9,3.061,3.061,0,0,1-2.168.9Z" transform="translate(-47.829 -46.56)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

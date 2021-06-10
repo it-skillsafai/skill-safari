@@ -1,0 +1,72 @@
+body {
+    background-color: #0c0d1d;
+    margin: 0;
+    color: whitesmoke;
+}
+
+/* Reusable */
+
+.special {
+    color: #fb8200;
+}
+
+.special-icon {
+    color: #8e74ed;
+    font-size: 13px;
+}
+
+.box {
+    display: block;
+    background-color: #1c2042;
+    padding: 10px;
+    box-shadow: 15px 15px 10px #ffffff;
+    box-shadow: 0px 0px 15px #181a38;
+    margin: auto;
+}
+
+.box a {
+    text-decoration: none;
+}
+
+.box h5 {
+    font-size: 18px;
+    display: inline-block;
+}
+
+.box p {
+    font-size: 15px;
+}
+
+/* Header - Logo */
+
+header {
+    background-color: #0c0d1d;
+}
+
+.logo {
+    width: 150px;
+}
+
+/* Heading - Start */
+
+.heading {
+    margin-top: 70px;
+}
+
+.heading h1 {
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.question {
+    margin: 15px auto;
+}
+
+.demo .correct:focus {
+    background-color: green;
+    color: black;
+}
+
+.demo .wrong:focus {
+    background-color: red;
+}

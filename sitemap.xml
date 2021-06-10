@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://skillsafari.in/</loc>
+  <lastmod>2020-10-06T09:56:30+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://skillsafari.in/alchemyst</loc>
+  <lastmod>2020-10-06T09:56:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://skillsafari.in/frontend/course</loc>
+  <lastmod>2020-10-06T09:56:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://skillsafari.in/fullstack/course</loc>
+  <lastmod>2020-10-06T09:56:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://skillsafari.in/uiux/course</loc>
+  <lastmod>2020-10-06T09:56:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://skillsafari.in/events/list</loc>
+  <lastmod>2020-10-06T09:56:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://skillsafari.in/contact</loc>
+  <lastmod>2020-10-06T09:56:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://skillsafari.in/rpa/course</loc>
+  <lastmod>2020-10-06T09:56:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://skillsafari.in/about</loc>
+  <lastmod>2020-10-06T09:56:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://skillsafari.in/privacypolicy</loc>
+  <lastmod>2020-10-06T09:56:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://skillsafari.in/termsandconditions</loc>
+  <lastmod>2020-10-06T09:56:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://skillsafari.in/placement</loc>
+  <lastmod>2020-10-06T09:56:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://skillsafari.in/fullstack/carrer</loc>
+  <lastmod>2020-10-06T09:56:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://skillsafari.in/fullstack/circulum</loc>
+  <lastmod>2020-10-06T09:56:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://skillsafari.in/fullstack/getStart</loc>
+  <lastmod>2020-10-06T09:56:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://skillsafari.in/ca/register</loc>
+  <lastmod>2020-10-06T09:56:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://skillsafari.in/index</loc>
+  <lastmod>2020-10-06T09:56:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

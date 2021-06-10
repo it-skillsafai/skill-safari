@@ -1,0 +1,67 @@
+body {
+    background-color: #0c0d1d;
+    color: whitesmoke;
+}
+
+/* Reusable */
+
+.special {
+    color: #fb8200;
+}
+
+.special-icon {
+    color: #8e74ed;
+    font-size: 20px;
+}
+
+.box {
+    background-color: #1c2042;
+    padding: 25px;
+    border-radius: 10px;
+    font-size: 18px;
+    box-shadow: 15px 15px 10px #ffffff;
+    box-shadow: 0px 0px 15px #181a38;
+    margin-top: 15px;
+    margin: auto;
+}
+
+/* Header - Logo */
+
+header {
+    background-color: #0c0d1d;
+}
+
+.logo {
+    width: 150px;
+}
+
+.register-btn {
+    background-color: #f80a6f;
+    font-weight: 500;
+    color: white;
+}
+
+.register-btn:hover {
+    color: white;
+    background-color: #fc227d;
+    box-shadow: 0px 0px 10px #f80a6f;
+}
+
+/* Heading - Start */
+
+.heading {
+    margin-top: 70px;
+}
+
+.heading h1 {
+    font-size: 25px;
+    font-weight: 800;
+}
+
+hr {
+    background-color: #8e74ed;
+}
+
+.certificate {
+    box-shadow:0px 0px 10px #8e74ed;
+}
