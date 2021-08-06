@@ -10,8 +10,6 @@ body {
   color: #1c2042;
 }
 
-
-
 .bg-white {
   background: #ffffff !important;
 }
@@ -31,7 +29,7 @@ body {
   background: #fb8200;
 }
 
-ul li{
+ul li {
   list-style: none;
 }
 
@@ -39,7 +37,8 @@ ul li{
 
 .background-main {
   background: #1c2042;
-  background: linear-gradient(rgba(42, 46, 77, 0.9), rgba(42, 46, 77, 0.7)) 0% 0% / cover no-repeat fixed,
+  background: linear-gradient(rgba(42, 46, 77, 0.9), rgba(42, 46, 77, 0.7)) 0%
+      0% / cover no-repeat fixed,
     url(../images/DsBanner1.png);
   /* background: #1c2042; */
   width: 100%;
@@ -51,7 +50,8 @@ ul li{
 @media (max-width: 36em) {
   .background-main {
     height: auto;
-    background: linear-gradient(rgba(42, 46, 77, 0.9), rgba(42, 46, 77, 0.7)) 0% 0% / cover no-repeat fixed,
+    background: linear-gradient(rgba(42, 46, 77, 0.9), rgba(42, 46, 77, 0.7)) 0%
+        0% / cover no-repeat fixed,
       url(../images/DsBanner1.png);
     background-position: 60% center;
     /* height: 700px; */
@@ -183,15 +183,19 @@ nav.active .btn {
   transition: margin-left 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   pointer-events: none;
 }
-.binge{
-  background: linear-gradient(90deg , rgba(251, 130, 0, 1) 0%, rgba(251, 190, 0, 0.9556197478991597) 100%);
+.binge {
+  background: linear-gradient(
+    90deg,
+    rgba(251, 130, 0, 1) 0%,
+    rgba(251, 190, 0, 0.9556197478991597) 100%
+  );
   color: #1c2042;
 }
 
 .video-container {
   overflow: hidden;
   position: relative;
-  width:100%;
+  width: 100%;
   margin: auto;
 }
 
@@ -358,11 +362,13 @@ nav.active .btn {
 
 .service-5 .wrap-service5-box .text-success-gradiant {
   background: #f80a6f;
-  background: -webkit-gradient(linear,
-      left top,
-      right top,
-      from(#f80a6f),
-      to(#f92a6b));
+  background: -webkit-gradient(
+    linear,
+    left top,
+    right top,
+    from(#f80a6f),
+    to(#f92a6b)
+  );
   background: -webkit-linear-gradient(left, #f80a6f 0%, #f92a6b 100%);
   background: -o-linear-gradient(left, #f80a6f 0%, #f92a6b 100%);
   background: linear-gradient(to right, #f80a6f 0%, #f92a6b 100%);
@@ -550,13 +556,11 @@ nav.active .btn {
   color: #f80a6f;
 }
 
-
-
 .payment .list-group-item {
   padding: 0.5rem 1rem;
 }
 .payment h6 a:active,
-.payment h6 a:hover{
+.payment h6 a:hover {
   color: #fb8200;
 }
 
@@ -653,7 +657,6 @@ nav.active .btn {
   padding: 25px 0px;
 }
 
-
 .footer-main .contact-widget p {
   font-size: 14px;
   font-weight: 400;
@@ -743,7 +746,7 @@ button:focus {
   color: #ffffff;
 }
 
-.footer-main .social-icon a+a {
+.footer-main .social-icon a + a {
   margin-left: 4px;
 }
 
@@ -757,14 +760,16 @@ button:focus {
 .footer-main .footer-bg {
   position: absolute;
   bottom: 0;
-  background: url('http://droitthemes.com/html/saasland/img/seo/footer_bg.png') no-repeat scroll center 0;
+  background: url('https://skillsafaribucket.s3.ap-south-1.amazonaws.com/footer_bg.png')
+    no-repeat scroll center 0;
   width: 100%;
-  height: 266px;
+  height: 241px;
   opacity: 0.8;
 }
 
 .footer-main .footer-bg .footer-bg-one {
-  background: url('https://1.bp.blogspot.com/-mvKUJFGEc-k/XclCOUSvCnI/AAAAAAAAUAE/jnBSf6Fe5_8tjjlKrunLBXwceSNvPcp3wCLcBGAsYHQ/s1600/volks.gif') no-repeat center center;
+  background: url('https://skillsafaribucket.s3.ap-south-1.amazonaws.com/volks.gif')
+    no-repeat center center;
   width: 330px;
   height: 105px;
   background-size: 100%;
@@ -776,7 +781,8 @@ button:focus {
 }
 
 .footer-main .footer-bg .footer-bg-two {
-  background: url('https://1.bp.blogspot.com/-hjgfxUW1o1g/Xck--XOdlxI/AAAAAAAAT_4/JWYFJl83usgRFMvRfoKkSDGd--_Sv04UQCLcBGAsYHQ/s1600/cyclist.gif') no-repeat center center;
+  background: url('https://skillsafaribucket.s3.ap-south-1.amazonaws.com/cyclist.gif')
+    no-repeat center center;
   width: 88px;
   height: 100px;
   background-size: 100%;
@@ -944,7 +950,6 @@ button:focus {
   cursor: pointer;
 }
 
-
 /* Circulum Page */
 
 #learn h2 {
@@ -976,23 +981,24 @@ button:focus {
 
 /* getstart */
 
-.getstart a{
+.getstart a {
   color: #f80a6f;
 }
 
-.getstart a:active, .getstart a:hover{
+.getstart a:active,
+.getstart a:hover {
   color: #fb8200;
 }
 
-#faqs{
+#faqs {
   color: #1c2042;
 }
 
-#faqs a{
+#faqs a {
   color: #1c2042;
 }
 
-#faqs .faq-link.active{
+#faqs .faq-link.active {
   background: #f80a6f;
   color: #fff;
 }
