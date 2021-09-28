@@ -10,8 +10,6 @@ body {
   color: #1c2042;
 }
 
-
-
 .bg-white {
   background: #ffffff !important;
 }
@@ -31,13 +29,12 @@ body {
   background: #fb8200;
 }
 
-
-
 /* Main */
 
 .background-main {
   background: #1c2042;
-  background: linear-gradient(rgba(42, 46, 77, 0.9), rgba(42, 46, 77, 0.7)) 0% 0% / cover no-repeat fixed,
+  background: linear-gradient(rgba(42, 46, 77, 0.9), rgba(42, 46, 77, 0.7)) 0%
+      0% / cover no-repeat fixed,
     url(../img/bg1.jpg);
   /* background: #1c2042; */
   height: 800px;
@@ -48,7 +45,8 @@ body {
 @media (max-width: 36em) {
   .background-main {
     height: auto;
-    background: linear-gradient(rgba(42, 46, 77, 0.9), rgba(42, 46, 77, 0.7)) 0% 0% / cover no-repeat fixed,
+    background: linear-gradient(rgba(42, 46, 77, 0.9), rgba(42, 46, 77, 0.7)) 0%
+        0% / cover no-repeat fixed,
       url(../img/bg1.jpg);
     background-position: 60% center;
     /* height: 700px; */
@@ -68,7 +66,6 @@ nav {
 
 nav.dark {
   background-color: #1c2042 !important;
-
 }
 
 nav.active {
@@ -336,11 +333,13 @@ nav.active .btn {
 
 .service-5 .wrap-service5-box .text-success-gradiant {
   background: #f80a6f;
-  background: -webkit-gradient(linear,
-      left top,
-      right top,
-      from(#f80a6f),
-      to(#f92a6b));
+  background: -webkit-gradient(
+    linear,
+    left top,
+    right top,
+    from(#f80a6f),
+    to(#f92a6b)
+  );
   background: -webkit-linear-gradient(left, #f80a6f 0%, #f92a6b 100%);
   background: -o-linear-gradient(left, #f80a6f 0%, #f92a6b 100%);
   background: linear-gradient(to right, #f80a6f 0%, #f92a6b 100%);
@@ -528,8 +527,6 @@ nav.active .btn {
   color: #f80a6f;
 }
 
-
-
 .payment .list-group-item {
   padding: 0.5rem 1rem;
 }
@@ -626,7 +623,6 @@ nav.active .btn {
   border-color: #ffffff !important;
 }
 
-
 .footer-main {
   padding: 100px 0px 200px;
   position: relative;
@@ -645,7 +641,6 @@ nav.active .btn {
   color: #ffffff;
   padding: 25px 0px;
 }
-
 
 .footer-main .contact-widget p {
   font-size: 16px;
@@ -737,7 +732,7 @@ button:focus {
   color: #ffffff;
 }
 
-.footer-main .social-icon a+a {
+.footer-main .social-icon a + a {
   margin-left: 4px;
 }
 
@@ -751,14 +746,16 @@ button:focus {
 .footer-main .footer-bg {
   position: absolute;
   bottom: 0;
-  background: url('https://skillsafaribucket.s3.ap-south-1.amazonaws.com/footer_bg.png') no-repeat scroll center 0;
+  background: url('https://res.cloudinary.com/skill-safari/image/upload/v1632811218/website/footer_bg_ele8yf.png')
+    no-repeat scroll center 0;
   width: 100%;
   height: 241px;
   opacity: 0.8;
 }
 
 .footer-main .footer-bg .footer-bg-one {
-  background: url('https://skillsafaribucket.s3.ap-south-1.amazonaws.com/volks.gif') no-repeat center center;
+  background: url('https://res.cloudinary.com/skill-safari/image/upload/v1632811219/website/volks_ih0wsv.gif')
+    no-repeat center center;
   width: 330px;
   height: 105px;
   background-size: 100%;
@@ -770,7 +767,8 @@ button:focus {
 }
 
 .footer-main .footer-bg .footer-bg-two {
-  background: url('https://skillsafaribucket.s3.ap-south-1.amazonaws.com/cyclist.gif') no-repeat center center;
+  background: url('https://res.cloudinary.com/skill-safari/image/upload/v1632811220/website/cyclist_iu8leu.gif')
+    no-repeat center center;
   width: 88px;
   height: 100px;
   background-size: 100%;
@@ -939,7 +937,6 @@ button:focus {
 .faq-card {
   cursor: pointer;
 }
-
 
 /* Circulum Page */
 
