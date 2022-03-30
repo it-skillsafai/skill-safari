@@ -125,14 +125,13 @@ pre code {
 
 del {
   -webkit-text-decoration-color: #ee6e73;
-          text-decoration-color: #ee6e73;
+  text-decoration-color: #ee6e73;
 }
 
 kbd {
   background-color: #ddd;
   padding: 4px 6px;
   border-radius: 2px;
-  color: ;
 }
 
 address {
@@ -568,10 +567,6 @@ button:focus {
 .mu-video-iframe-display {
   display: block;
 }
-
-.mu-video-iframe-area iframe {
-}
-
 /*--------------------*/
 /* EVENT SCHEDULE */
 /*--------------------*/
@@ -769,9 +764,6 @@ button:focus {
 
 .mu-single-speakers-info p {
   margin-bottom: 5px;
-}
-
-.mu-single-speakers-social {
 }
 
 .mu-single-speakers-social li {
